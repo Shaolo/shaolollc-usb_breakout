@@ -1,0 +1,14 @@
+Altium Designer Pick and Place Locations
+C:\development\shaolollc-usb_breakout\microUSB\ProjectOutputs\OSHPark\Pick Place\XNY.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/04/18
+Time:       19:13
+Revision:   4649df4c4acb58cec120c44ed40110d39e2835f7
+Variant:    No variations
+Units used: mil
+
+Designator Comment  Layer    Footprint   Center-X(mil) Center-Y(mil) Rotation Description                    
+uUSB       =Comment TopLayer USB_Micro_B 323.819       173.228       270      "CONN RCPT 5POS MICRO USB R/A" 

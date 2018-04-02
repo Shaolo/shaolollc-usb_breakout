@@ -1,0 +1,14 @@
+Altium Designer Pick and Place Locations
+C:\development\shaolollc-usb_breakout\miniUSB\ProjectOutputs\OSHPark\Pick Place\XNY.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/04/18
+Time:       19:14
+Revision:   4649df4c4acb58cec120c44ed40110d39e2835f7
+Variant:    No variations
+Units used: mil
+
+Designator Comment  Layer    Footprint               Center-X(mil) Center-Y(mil) Rotation Description                        
+miniUSB    =Comment TopLayer USB_MINI_B_W_PEGS_-_UJ2 357.283       173.228       90       "USB JACK 2.0, MINI B TYPE, 5 PIN" 

@@ -1,0 +1,12 @@
+Output: Drill
+Type  : NC Drill
+From  : PCB Document [shaolollc-usb_breakout_microusb.PcbDoc]
+   Generated File[Drill.TXT]
+   Generated File[Drill.LDP]
+   Generated File[Drill.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:29:30 PM On 4/1/2018
