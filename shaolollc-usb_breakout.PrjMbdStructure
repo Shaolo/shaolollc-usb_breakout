@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=main.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=microUSB\shaolollc-usb_breakout_microusb.PrjPcb
+Record=SubProject|SourceDocument=main.MbsDoc|ProjectPath=microUSB\shaolollc-usb_breakout_microusb.PrjPcb
+Record=DiagramHierarchy|SourceDocument=main.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=miniUSB\shaolollc-usb_breakout_miniusb.PrjPcb
+Record=SubProject|SourceDocument=main.MbsDoc|ProjectPath=miniUSB\shaolollc-usb_breakout_miniusb.PrjPcb
